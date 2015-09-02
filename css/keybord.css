@@ -1,0 +1,1 @@
+@charset "utf-8";#main2{display:none;position:absolute;z-index:2000;width:680px;height:360px;background:#FFF;padding:10px 0 20px 0;box-shadow:0 0 12px #fff;-moz-box-shadow:0 0 12px #fff;-webkit-boxshadow:0 0 12px #fff;behavior:url(css/pie/PIE.htc)}#main2 .closeBox{float:right;padding:0 15px}#main2 ul{list-style:none}#main2 ul li{padding:5px 0;color:#313131}
